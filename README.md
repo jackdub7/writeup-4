@@ -10,6 +10,8 @@ The first part of this lab is created in the API model.  Created in the file “
 ![Functions](function.png)
 The code here expresses one of the many tasks that the code must carry out.  There are a system of 4 codes here that are implemented to create, maintain, push, and call CRUD functions for the API model.  These .js functions, all separate, interact with one another to maintain that the API model is created properly and maintains the proper authentication and safety measures.  Here we can see the endpoints created and called so that the code can go to the correct reference without giving unneeded information to the user.
 
+![UML](UML.png)
+
 
 # Questions
 __Name and discuss at least two of the benefits of writing unit tests before writing code.__
